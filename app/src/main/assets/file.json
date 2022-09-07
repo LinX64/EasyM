@@ -1,0 +1,323 @@
+[
+  {
+    "name": "easyMarkets",
+    "url": "https://www.easymarkets.com",
+    "country": "Cyprus",
+    "properties": [
+      {
+        "apartments": [
+          {
+            "name": "Apartment 1",
+            "price": 1000,
+            "rooms": 2,
+            "area": 100,
+            "availableBedrooms": [
+              {
+                "bedroom1": {
+                  "name": "Bedroom 1",
+                  "price": 100,
+                  "area": 50,
+                  "beds": 4,
+                  "available": true
+                },
+                "bedroom2": {
+                  "name": "Bedroom 2",
+                  "price": 200,
+                  "area": 50,
+                  "beds": 3,
+                  "available": true
+                },
+                "bedroom3": {
+                  "name": "Bedroom 3",
+                  "price": 300,
+                  "area": 50,
+                  "beds": 3,
+                  "available": true
+                }
+              }
+            ]
+          },
+          {
+            "name": "Apartment 2",
+            "price": 2000,
+            "rooms": 3,
+            "area": 200,
+            "availableBedrooms": [
+              {
+                "bedroom1": {
+                  "name": "Bedroom 1",
+                  "price": 100,
+                  "area": 50,
+                  "beds": 4,
+                  "available": true
+                },
+                "bedroom2": {
+                  "name": "Bedroom 2",
+                  "price": 200,
+                  "area": 50,
+                  "beds": 3,
+                  "available": true
+                },
+                "bedroom3": {
+                  "name": "Bedroom 3",
+                  "price": 300,
+                  "area": 50,
+                  "beds": 3,
+                  "available": true
+                }
+              }
+            ]
+          },
+          {
+            "name": "Apartment 3",
+            "price": 3000,
+            "rooms": 4,
+            "area": 300,
+            "availableBedrooms": [
+              {
+                "bedroom1": {
+                  "name": "Bedroom 1",
+                  "price": 100,
+                  "area": 50,
+                  "beds": 4,
+                  "available": false
+                },
+                "bedroom2": {
+                  "name": "Bedroom 2",
+                  "price": 200,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                },
+                "bedroom3": {
+                  "name": "Bedroom 3",
+                  "price": 300,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                }
+              }
+            ]
+          },
+          {
+            "name": "Apartment 4",
+            "price": 4000,
+            "rooms": 5,
+            "area": 400,
+            "availableBedrooms": [
+              {
+                "bedroom1": {
+                  "name": "Bedroom 1",
+                  "price": 100,
+                  "area": 50,
+                  "beds": 4,
+                  "available": false
+                },
+                "bedroom2": {
+                  "name": "Bedroom 2",
+                  "price": 200,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                },
+                "bedroom3": {
+                  "name": "Bedroom 3",
+                  "price": 300,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                }
+              }
+            ]
+          },
+          {
+            "name": "Apartment 5",
+            "price": 5000,
+            "rooms": 6,
+            "area": 500,
+            "availableBedrooms": [
+              {
+                "bedroom1": {
+                  "name": "Bedroom 1",
+                  "price": 100,
+                  "area": 50,
+                  "beds": 4,
+                  "available": false
+                },
+                "bedroom2": {
+                  "name": "Bedroom 2",
+                  "price": 200,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                },
+                "bedroom3": {
+                  "name": "Bedroom 3",
+                  "price": 300,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                }
+              }
+            ]
+          },
+          {
+            "name": "Apartment 6",
+            "price": 6000,
+            "rooms": 7,
+            "area": 600,
+            "availableBedrooms": [
+              {
+                "bedroom1": {
+                  "name": "Bedroom 1",
+                  "price": 100,
+                  "area": 50,
+                  "beds": 4,
+                  "available": false
+                },
+                "bedroom2": {
+                  "name": "Bedroom 2",
+                  "price": 200,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                },
+                "bedroom3": {
+                  "name": "Bedroom 3",
+                  "price": 300,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                }
+              }
+            ]
+          },
+          {
+            "name": "Apartment 7",
+            "price": 7000,
+            "rooms": 8,
+            "area": 700,
+            "availableBedrooms": [
+              {
+                "bedroom1": {
+                  "name": "Bedroom 1",
+                  "price": 100,
+                  "area": 50,
+                  "beds": 4,
+                  "available": false
+                },
+                "bedroom2": {
+                  "name": "Bedroom 2",
+                  "price": 200,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                },
+                "bedroom3": {
+                  "name": "Bedroom 3",
+                  "price": 300,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                }
+              }
+            ]
+          },
+          {
+            "name": "Apartment 8",
+            "price": 8000,
+            "rooms": 9,
+            "area": 800,
+            "availableBedrooms": [
+              {
+                "bedroom1": {
+                  "name": "Bedroom 1",
+                  "price": 100,
+                  "area": 50,
+                  "beds": 4,
+                  "available": false
+                },
+                "bedroom2": {
+                  "name": "Bedroom 2",
+                  "price": 200,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                },
+                "bedroom3": {
+                  "name": "Bedroom 3",
+                  "price": 300,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                }
+              }
+            ]
+          },
+          {
+            "name": "Apartment 9",
+            "price": 9000,
+            "rooms": 10,
+            "area": 900,
+            "availableBedrooms": [
+              {
+                "bedroom1": {
+                  "name": "Bedroom 1",
+                  "price": 100,
+                  "area": 50,
+                  "beds": 4,
+                  "available": false
+                },
+                "bedroom2": {
+                  "name": "Bedroom 2",
+                  "price": 200,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                },
+                "bedroom3": {
+                  "name": "Bedroom 3",
+                  "price": 300,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                }
+              }
+            ]
+          },
+          {
+            "name": "Apartment 10",
+            "price": 10000,
+            "rooms": 11,
+            "area": 1000,
+            "availableBedrooms": [
+              {
+                "bedroom1": {
+                  "name": "Bedroom 1",
+                  "price": 100,
+                  "area": 50,
+                  "beds": 4,
+                  "available": false
+                },
+                "bedroom2": {
+                  "name": "Bedroom 2",
+                  "price": 200,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                },
+                "bedroom3": {
+                  "name": "Bedroom 3",
+                  "price": 300,
+                  "area": 50,
+                  "beds": 3,
+                  "available": false
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
