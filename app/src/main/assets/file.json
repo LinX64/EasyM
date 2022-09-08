@@ -13,27 +13,28 @@
             "area": 100,
             "availableBedrooms": [
               {
-                "bedroom1": {
-                  "name": "Bedroom 1",
-                  "price": 100,
-                  "area": 50,
-                  "beds": 4,
-                  "available": true
-                },
-                "bedroom2": {
-                  "name": "Bedroom 2",
-                  "price": 200,
-                  "area": 50,
-                  "beds": 3,
-                  "available": true
-                },
-                "bedroom3": {
-                  "name": "Bedroom 3",
-                  "price": 300,
-                  "area": 50,
-                  "beds": 3,
-                  "available": true
-                }
+                "name": "Bedroom 1",
+                "price": 100,
+                "area": 50,
+                "beds": 4,
+                "availableDate": "2022-01-01",
+                "available": true
+              },
+              {
+                "name": "Bedroom 2",
+                "price": 200,
+                "area": 50,
+                "beds": 3,
+                "availableDate": "2022-02-01",
+                "available": true
+              },
+              {
+                "name": "Bedroom 3",
+                "price": 300,
+                "area": 50,
+                "beds": 3,
+                "availableDate": "2022-03-01",
+                "available": true
               }
             ]
           },
@@ -44,27 +45,28 @@
             "area": 200,
             "availableBedrooms": [
               {
-                "bedroom1": {
-                  "name": "Bedroom 1",
-                  "price": 100,
-                  "area": 50,
-                  "beds": 4,
-                  "available": true
-                },
-                "bedroom2": {
-                  "name": "Bedroom 2",
-                  "price": 200,
-                  "area": 50,
-                  "beds": 3,
-                  "available": true
-                },
-                "bedroom3": {
-                  "name": "Bedroom 3",
-                  "price": 300,
-                  "area": 50,
-                  "beds": 3,
-                  "available": true
-                }
+                "name": "Bedroom 1",
+                "price": 100,
+                "area": 50,
+                "beds": 4,
+                "availableDate": null,
+                "available": true
+              },
+              {
+                "name": "Bedroom 2",
+                "price": 200,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": true
+              },
+              {
+                "name": "Bedroom 3",
+                "price": 300,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": true
               }
             ]
           },
@@ -75,27 +77,28 @@
             "area": 300,
             "availableBedrooms": [
               {
-                "bedroom1": {
-                  "name": "Bedroom 1",
-                  "price": 100,
-                  "area": 50,
-                  "beds": 4,
-                  "available": false
-                },
-                "bedroom2": {
-                  "name": "Bedroom 2",
-                  "price": 200,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                },
-                "bedroom3": {
-                  "name": "Bedroom 3",
-                  "price": 300,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                }
+                "name": "Bedroom 1",
+                "price": 100,
+                "area": 50,
+                "beds": 4,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 2",
+                "price": 200,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 3",
+                "price": 300,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
               }
             ]
           },
@@ -106,27 +109,28 @@
             "area": 400,
             "availableBedrooms": [
               {
-                "bedroom1": {
-                  "name": "Bedroom 1",
-                  "price": 100,
-                  "area": 50,
-                  "beds": 4,
-                  "available": false
-                },
-                "bedroom2": {
-                  "name": "Bedroom 2",
-                  "price": 200,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                },
-                "bedroom3": {
-                  "name": "Bedroom 3",
-                  "price": 300,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                }
+                "name": "Bedroom 1",
+                "price": 100,
+                "area": 50,
+                "beds": 4,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 2",
+                "price": 200,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 3",
+                "price": 300,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
               }
             ]
           },
@@ -137,27 +141,28 @@
             "area": 500,
             "availableBedrooms": [
               {
-                "bedroom1": {
-                  "name": "Bedroom 1",
-                  "price": 100,
-                  "area": 50,
-                  "beds": 4,
-                  "available": false
-                },
-                "bedroom2": {
-                  "name": "Bedroom 2",
-                  "price": 200,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                },
-                "bedroom3": {
-                  "name": "Bedroom 3",
-                  "price": 300,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                }
+                "name": "Bedroom 1",
+                "price": 100,
+                "area": 50,
+                "beds": 4,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 2",
+                "price": 200,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 3",
+                "price": 300,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
               }
             ]
           },
@@ -168,27 +173,28 @@
             "area": 600,
             "availableBedrooms": [
               {
-                "bedroom1": {
-                  "name": "Bedroom 1",
-                  "price": 100,
-                  "area": 50,
-                  "beds": 4,
-                  "available": false
-                },
-                "bedroom2": {
-                  "name": "Bedroom 2",
-                  "price": 200,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                },
-                "bedroom3": {
-                  "name": "Bedroom 3",
-                  "price": 300,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                }
+                "name": "Bedroom 1",
+                "price": 100,
+                "area": 50,
+                "beds": 4,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 2",
+                "price": 200,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 3",
+                "price": 300,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
               }
             ]
           },
@@ -199,27 +205,28 @@
             "area": 700,
             "availableBedrooms": [
               {
-                "bedroom1": {
-                  "name": "Bedroom 1",
-                  "price": 100,
-                  "area": 50,
-                  "beds": 4,
-                  "available": false
-                },
-                "bedroom2": {
-                  "name": "Bedroom 2",
-                  "price": 200,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                },
-                "bedroom3": {
-                  "name": "Bedroom 3",
-                  "price": 300,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                }
+                "name": "Bedroom 1",
+                "price": 100,
+                "area": 50,
+                "beds": 4,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 2",
+                "price": 200,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 3",
+                "price": 300,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
               }
             ]
           },
@@ -230,27 +237,28 @@
             "area": 800,
             "availableBedrooms": [
               {
-                "bedroom1": {
-                  "name": "Bedroom 1",
-                  "price": 100,
-                  "area": 50,
-                  "beds": 4,
-                  "available": false
-                },
-                "bedroom2": {
-                  "name": "Bedroom 2",
-                  "price": 200,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                },
-                "bedroom3": {
-                  "name": "Bedroom 3",
-                  "price": 300,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                }
+                "name": "Bedroom 1",
+                "price": 100,
+                "area": 50,
+                "beds": 4,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 2",
+                "price": 200,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 3",
+                "price": 300,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
               }
             ]
           },
@@ -261,27 +269,28 @@
             "area": 900,
             "availableBedrooms": [
               {
-                "bedroom1": {
-                  "name": "Bedroom 1",
-                  "price": 100,
-                  "area": 50,
-                  "beds": 4,
-                  "available": false
-                },
-                "bedroom2": {
-                  "name": "Bedroom 2",
-                  "price": 200,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                },
-                "bedroom3": {
-                  "name": "Bedroom 3",
-                  "price": 300,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                }
+                "name": "Bedroom 1",
+                "price": 100,
+                "area": 50,
+                "beds": 4,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 2",
+                "price": 200,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 3",
+                "price": 300,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
               }
             ]
           },
@@ -292,27 +301,28 @@
             "area": 1000,
             "availableBedrooms": [
               {
-                "bedroom1": {
-                  "name": "Bedroom 1",
-                  "price": 100,
-                  "area": 50,
-                  "beds": 4,
-                  "available": false
-                },
-                "bedroom2": {
-                  "name": "Bedroom 2",
-                  "price": 200,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                },
-                "bedroom3": {
-                  "name": "Bedroom 3",
-                  "price": 300,
-                  "area": 50,
-                  "beds": 3,
-                  "available": false
-                }
+                "name": "Bedroom 1",
+                "price": 100,
+                "area": 50,
+                "beds": 4,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 2",
+                "price": 200,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
+              },
+              {
+                "name": "Bedroom 3",
+                "price": 300,
+                "area": 50,
+                "beds": 3,
+                "availableDate": null,
+                "available": false
               }
             ]
           }
