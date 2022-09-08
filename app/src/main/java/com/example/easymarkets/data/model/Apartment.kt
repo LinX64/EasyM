@@ -8,7 +8,7 @@ data class Apartment(
     @SerializedName("area")
     val area: Int,
     @SerializedName("availableBedrooms")
-    val availableBedrooms: List<AvailableBedrooms>,
+    val availableBedrooms: List<AvailableBedroom>,
     @SerializedName("name")
     val name: String,
     @SerializedName("price")

@@ -1,4 +1,4 @@
-package com.example.easymarkets.utils
+package com.example.easymarkets.util
 
 import android.content.Context
 import java.io.IOException
